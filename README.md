@@ -1,4 +1,4 @@
-# JSeroids - A Modern Asteroids Game
+# JSteroids - A Modern Asteroids Game
 
 JSeroids is a modern take on the classic Asteroids game, developed using HTML5, CSS3, and JavaScript. The game involves controlling a spaceship, avoiding asteroids, and shooting them down to score points.
 
